@@ -7,8 +7,7 @@
 * git clone https://github.com/dennisnyamweya/News-Highlights.git
 * install python
 * cd News-highlights
-* easy-to-understand
-* format
+* run python3.6 start.sh
 ## Known Bugs
 There are no known bugs but contact me via email if you do see one.
 ## Technologies Used
