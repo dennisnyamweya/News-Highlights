@@ -20,4 +20,4 @@ There are no known bugs but contact me via email if you do see one.
 If ypu run into any issues or have questions, ideas or concerns contact me or make a contribution to the code.You can reach me via my email denisnyamweya813@gmail.com
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **Dennis Makori Nyamweya**
+Copyright (c) {2019} **{Dennis Makori Nyamweya}**
