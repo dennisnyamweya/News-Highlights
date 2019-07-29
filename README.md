@@ -4,7 +4,7 @@
 ## Description
  An application that will help them list and preview news articles from various sources.The application shows various news sources on the homepage and allows selection of news sources.
 ## Setup/Installation Requirements
-* git clone 
+* git clone https://github.com/dennisnyamweya/News-Highlights.git
 * install python
 * 
 * easy-to-understand
