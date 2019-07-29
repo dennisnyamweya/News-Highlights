@@ -19,7 +19,7 @@ There are no known bugs but contact me via email if you do see one.
 ### Business Logic
 An application that will help them list and preview news articles from various sources.A user would see various news sources on the homepage of the application and select a news source and see all news articles from the selected news source .
 ## User Interface Logic
-The user interface is a one page website that has an input section for creating new quote,date and name of publisher.The user can enter their names as authors of the quote,the quote itself and the date of submission.They then click on the button add quote for it to be added to the quotes section.
+The application has  two models, one for the news source and one for the news article.The application on clicking to read news one sees the news source.
 ## Support and contact details
 If ypu run into any issues or have questions, ideas or concerns contact me or make a contribution to the code.You can reach me via my email denisnyamweya813@gmail.com
 ### License
