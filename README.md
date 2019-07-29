@@ -21,7 +21,7 @@ An application that will help them list and preview news articles from various s
 ## User Interface Logic
 The application has  two models, one for the news source and one for the news article.The application on clicking to read news one sees the news source.
 ## Support and contact details
-If ypu run into any issues or have questions, ideas or concerns contact me or make a contribution to the code.You can reach me via my email denisnyamweya813@gmail.com
+If you run into any issues or have questions, ideas or concerns contact me or make a contribution to the code.You can reach me via my email denisnyamweya813@gmail.com
 ### License
 *{MIT License
 
