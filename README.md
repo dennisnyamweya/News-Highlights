@@ -6,7 +6,7 @@
 ## Setup/Installation Requirements
 * git clone https://github.com/dennisnyamweya/News-Highlights.git
 * install python
-* 
+* cd News-highlights
 * easy-to-understand
 * format
 ## Known Bugs
