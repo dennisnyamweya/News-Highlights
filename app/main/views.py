@@ -10,7 +10,7 @@ def index():
     '''
     top_headlines = get_news("top-headlines")
 
-    title = "News headlines"
+    title = "News Highlights"
     
     search_news = request.args.get("news_query")
     search_sources = request.args.get("news_sources")
